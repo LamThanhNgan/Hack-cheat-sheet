@@ -4,3 +4,11 @@
 
 ## file inclusion
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
+
+##  Website to check the SSL certificate
+- https://www.sslshopper.com/ssl-checker.html
+
+## Check the SMTP Security for smtp.gmail.com
+- https://mxtoolbox.com/SuperTool.aspx
+
+## 
