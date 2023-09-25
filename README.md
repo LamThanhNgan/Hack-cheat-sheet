@@ -11,4 +11,5 @@
 ## Check the SMTP Security for smtp.gmail.com
 - https://mxtoolbox.com/SuperTool.aspx
 
-## 
+## Kubecli cheat sheet
+- https://kubernetes.io/docs/reference/kubectl/cheatsheet/
