@@ -25,4 +25,5 @@
 
 ## CERT
 - https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YSGODPGBVM.png
+- https://www.hackerrank.com/certificates/03a2c05ed395?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate
 
