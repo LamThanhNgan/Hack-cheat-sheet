@@ -19,6 +19,8 @@
 - https://book.hacktricks.xyz/crypto-and-stego/stego-tricks
 - https://ctftime.org/writeup/17314
 
+## Reverse shell php
+- https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
   
 ## Learning
 - https://www.hackerrank.com/
