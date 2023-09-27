@@ -19,6 +19,7 @@
 
 ## Cracking image
 - https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d
+- https://book.hacktricks.xyz/crypto-and-stego/stego-tricks
 
   
 ## Learning
