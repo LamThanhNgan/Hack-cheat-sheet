@@ -17,7 +17,10 @@
 ## CERT
 - https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YSGODPGBVM.png
 
+## Cracking image
+- https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d
 
+  
 ## Learning
 - https://www.hackerrank.com/
-- 
+
