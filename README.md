@@ -1,6 +1,7 @@
 # Hack-cheat-sheet
 
 - https://gtfobins.github.io/
+- https://www.exploit-db.com/
 
 ## file inclusion
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
